@@ -10,12 +10,12 @@ The main goal is to understand price movement patterns and build an LSTM model t
 LSTM (Long Short-Term Memory) networks are a type of recurrent neural network designed for sequence-based learning.
 They are ideal for financial data because they can:
 
-remember information over long time periods
+1) Remember information over long time periods
 
-track trends and seasonality
+2) track trends and seasonality
 
-handle irregular fluctuations
+3) handle irregular fluctuations
 
-learn how previous prices influence future prices
+4) learn how previous prices influence future prices
 
 This makes LSTMs well-suited for cryptocurrency forecasting.
